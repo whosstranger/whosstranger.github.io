@@ -23,7 +23,7 @@ description              : "I'm just a hacker"
 url                      : "https://whosstranger.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "whosstranger/whosstranger.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-logo                     : "/assets/images/masthead.png"
+logo                     : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -102,10 +102,10 @@ analytics:
 # Site Author
 author:
   name             : "WhosStranger"
-  avatar           : "/assets/images/avatar.png"
+  avatar           : "https://i.pinimg.com/736x/0a/b3/41/0ab34185569b6b313e6f145ea1b74084.jpg"
   bio              : "I'm just a hacker"
-  location         : "El Mundo"
-  email            : "info@snowscan.io"
+  location         :
+  email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,10 +114,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "slemire"
+  github           : "whosstranger"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          :
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          :
   vine             :
   weibo            :
   xing             :

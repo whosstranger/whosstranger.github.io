@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "WhosStranger"
-  avatar           : "https://i.pinimg.com/originals/41/20/ff/4120ff7a16130b3371df1175c2164d03.jpg"
+  avatar           : "/assets/images/general/logo.jpg"
   bio              : "I'm just a hacker"
   location         :
   email            :

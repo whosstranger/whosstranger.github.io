@@ -1,9 +1,24 @@
 ---
+layout: single
 title: Botones en la Polybard
+published: true
+excerpt: "Configurar botones para abrir aplicaciones directas en la Polyboard."
+date: 2023-04-17
+classes: wide
+header:
+  teaser: /assets/images/polyboard/Logo.png
+  teaser_home_page: true
+  icon: /assets/images/polyboard/Logo.png
+categories:
+  - Polyboard
+tags:
+  - Parrot
+  - Polyboard
+  - Entorno
 published: true
 ---
 
-![](/assets/images/general/Polybar.PNG)
+![](/assets/images/polyboard/Polybar.PNG)
 
 La siguiente publicación te enseño como configurar botones en la polybard para así tener un acceso directo a las aplicaciones.
 

@@ -1,5 +1,18 @@
 ---
+layout: single
 title: SteamCloud WriteUp - HTB
+excerpt: "Máquina enfoncada a pentesting a nivel de cloud."
+date: 2023-04-17
+classes: wide
+header:
+  teaser: /assets/images/htb-cloud/Cloud.png
+  teaser_home_page: true
+  icon: /assets/images/htb-cloud/Cloud.png
+categories:
+  - hackthebox
+tags:
+  - kubernetes
+  - pentesting cloud
 published: true
 ---
 ## [](#header-2)Análisis
